@@ -17,7 +17,7 @@
   <a href="#example">Example</a> 
 </p>
 
-![screenshot](https://github.com/DaVinci0003/LibraryDemo/blob/main/images/img.png)
+![screenshot](https://github.com/MarkMdvn/Movie-Rating-WebApp/blob/main/images/Main_img.png)
 
 ## 🛠️ Built With
 
@@ -61,33 +61,30 @@ This project is a demonstration of my knowledge of web application development w
 
 ## 📷 Examples
 
-* The 'Home' page of the project retrieves all the movies from the database dynamically. 
+* All the movies from the 'Home' page of the project are stored in a database:
 
 <div align="center">
-<img src="https://github.com/DaVinci0003/LibraryDemo/blob/main/images/AllBooks-example.png" alt="onlineLibrary" width="700px">  
+<img src="https://github.com/MarkMdvn/Movie-Rating-WebApp/blob/main/images/MongoDB-showcase.png" alt="mongoDB" width="700px">  
 </div>
 
 <br>
 
-* And this is a screenshot of the relational database from where it fetches the data:
+* After choosing a movie you can watch the trailer:
 
 <br>
 
 <div align="center">
-<img src="https://github.com/DaVinci0003/LibraryDemo/blob/main/images/MySQL-example.png" alt="onlineLibrary" width="700px">
+<img src="https://github.com/MarkMdvn/Movie-Rating-WebApp/blob/main/images/Trailer-showcase.png" alt="trailer showcase" width="700px">
 </div>
 
 ---
 
-* When you try to add a book, this form will appear and after pressing "Submit", Hibernate will update the database:
+* Or you could write a review that will be stored in the database, each movie will have it's own reviews:
 
 <div align="center">
-<img src="https://github.com/DaVinci0003/LibraryDemo/blob/main/images/addBook-example.png" alt="onlineLibrary" width="700px">
+<img src="https://github.com/MarkMdvn/Movie-Rating-WebApp/blob/main/images/Ratings-showcase.png" alt="onlineLibrary" width="700px">
 </div>
 
-<div align="center">
-<img src="https://github.com/DaVinci0003/LibraryDemo/blob/main/images/boodAdded-example.png" alt="onlineLibrary" width="300px">
-</div>
 
 ---
 
