@@ -2,4 +2,4 @@ spring:
   data:
     mongodb:
       database: <database-name>
-      uri: mongodb+srv://<user>:<password@<cluster>
+      uri: mongodb+srv://<user>:<password>@<cluster>
