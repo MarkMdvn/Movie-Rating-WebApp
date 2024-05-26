@@ -1,5 +1,5 @@
 spring:
   data:
     mongodb:
-      database: movie-api-db
-      uri: mongodb+srv://SinteticStone:m76ht6RCwwbx9H85@cluster0.krb5hct.mongodb.net/
+      database: <database-name>
+      uri: mongodb+srv://<user>:<password@<cluster>
